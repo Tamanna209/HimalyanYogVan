@@ -222,7 +222,7 @@ const JoinNow = () => {
                 <CardHeader>
                   <div className="flex items-center mb-2">
                     <User className="h-5 w-5 mr-2 text-yoga-green-dark" />
-                    <CardTitle className="text-xl text-yoga-green-dark">Why Join GreenWave Yoga?</CardTitle>
+                    <CardTitle className="text-xl text-yoga-green-dark">Why Join Himalyan YogVan?</CardTitle>
                   </div>
                   <CardDescription>
                     Our yoga studio offers a welcoming environment for practitioners of all levels.
@@ -300,7 +300,7 @@ const JoinNow = () => {
               Inquiry Submitted!
             </DialogTitle>
             <DialogDescription>
-              Thank you for your interest in GreenWave Yoga.
+              Thank you for your interest in Himalyan YogVan.
             </DialogDescription>
           </DialogHeader>
           <div className="py-4">
