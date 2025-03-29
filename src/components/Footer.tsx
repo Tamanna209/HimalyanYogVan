@@ -89,7 +89,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-2 flex-shrink-0" />
-                <span>info@greenwaveyoga.com</span>
+                <span>info@himalayanYogVan.com</span>
               </li>
             </ul>
           </div>
@@ -97,7 +97,7 @@ const Footer = () => {
         
         <div className="border-t border-yoga-green-light pt-6 mt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-yoga-green-pale mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} GreenWave Yoga. All rights reserved.
+            &copy; {new Date().getFullYear()} Himalyan YogVan. All rights reserved.
           </p>
           <div className="flex space-x-6">
             <a href="#" className="text-sm text-yoga-green-pale hover:text-yoga-green-light transition-colors">
